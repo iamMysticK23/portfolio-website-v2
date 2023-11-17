@@ -154,6 +154,8 @@ const PortfolioData = [
         framework: "ReactJS",
         preview: "Live Demo",
         link: "https://ke-meme-generator.netlify.app/",
+        github: "GitHub Repository",
+        ghlink: "https://github.com/iamMysticK23/meme_generator_codealong"
       },
     ],
   },
