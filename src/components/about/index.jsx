@@ -4,7 +4,7 @@ import Education from "./Education";
 import Experience from "./Experience";
 import PersonalInfo from "./PersonalInfo";
 import Skills from "./Skills";
-import cv from "../../assets/img/KenaiEpps_FE_Dev2023.pdf";
+import cv from "../../assets/img/KenaiEpps_FEDev.pdf";
 import heroImgMobile from "../../assets/img/hero/hero-img-mobile.png";
 
 const index = () => {
