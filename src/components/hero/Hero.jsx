@@ -9,9 +9,10 @@ const heroContent = {
   heroImage: mainImg,
   heroMobileImage: heroImgMobile,
   heroTitleName: "kenai epps",
-  heroDesignation: "front end developer",
-  heroDescriptions: `I am a passionate and dedicated Front End Developer with a solid understanding of web development principles. 
-                    Skilled in HTML, CSS, and JavaScript frameworks. Committed to delivering high-quality code and exceptional user experiences. `,
+  heroDesignation: "Full Stack Software Engineer",
+  heroDescriptions: `Passionate Full Stack Software Engineer with expertise in front-end technologies (HTML, CSS, JavaScript , React) and back-end technologies
+  including NodeJS and Python with Flask. Skilled in database management using PostgreSQL, I am committed to delivering end-to-end solutions
+  with high-quality code, drawing on a background in retail management to excel in diverse team environments. `,
   heroBtn: "more about me",
 };
 

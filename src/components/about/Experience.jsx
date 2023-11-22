@@ -3,9 +3,9 @@ import React from "react";
 const experienceContent = [
   {
     year: "   October 2023 - Present",
-    position: "Front End Developer",
+    position: "Software Engineer",
     compnayName: "Freelance Projects",
-    details: ` Completing various front end projects to continue to build my portfolio and gain experience. `,
+    details: ` Completing various front end and back end projects to continue to build my portfolio and gain experience. `,
   },
 
   {
