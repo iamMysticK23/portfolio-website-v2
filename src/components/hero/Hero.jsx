@@ -13,7 +13,7 @@ const heroContent = {
   heroDescriptions: `
   I am a results-oriented software engineer with hands-on experience gained through intensive bootcamps and freelance projects. 
   My expertise lies in front-end technologies, specifically HTML, CSS, and JavaScript. 
-  I excel in crafting bespoke software solutions and leading feature development, demonstrating effective communication and collaboration skills. 
+  I excel in crafting software solutions and leading feature development, demonstrating effective communication and collaboration skills. 
   I am adept at defining user requirements and ensuring scalability, and I am committed to delivering innovative solutions.`,
   heroBtn: "more about me",
 };
