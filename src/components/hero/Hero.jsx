@@ -12,13 +12,13 @@ const heroContent = {
   heroDesignation: "Tech Enthusiast",
   heroDescriptions: `
   ▪️💻 I am a jack of all trades when it comes to tech! I possess a diverse range of technical skills, making me versatile in various areas of technology. 
-  I am seeking a stable career in the tech industry where I can demonstrate my distinctive skill set and contribute to solving challenges! \n
+  I am seeking a stable career in the tech industry where I can demonstrate my distinctive skill set and contribute to solving challenges! 
 
-▪️📚 My diverse background, which spans from retail management to dedicated truck driving, has equipped me with skills in leadership, communication, problem-solving, and time management. \n
+▪️📚 My diverse background, which spans from retail management to dedicated truck driving, has equipped me with skills in leadership, communication, problem-solving, and time management. 
 
-▪️📷 I have also developed a passion for digital artistry, using tools like Final Cut Pro, Adobe Photoshop, and Adobe Lightroom to craft visual narratives. \n
+▪️📷 I have also developed a passion for digital artistry, using tools like Final Cut Pro, Adobe Photoshop, and Adobe Lightroom to craft visual narratives. 
 
-▪️📲 I apply these skills and passions mostly to web development, using technologies like React JS, TypeScript, JavaScript, HTML, and CSS to bring abstract concepts to digital life. \n
+▪️📲 I apply these skills and passions mostly to web development, using technologies like React JS, TypeScript, JavaScript, HTML, and CSS to bring abstract concepts to digital life. 
 
 👉🏽 I am always eager to learn new tools and techniques and to collaborate with other developers and designers. Reach out to me on LinkedIn!`,
   heroBtn: "more about me",
